@@ -1,4 +1,7 @@
-# Basic Sample Hardhat Project
+# Meu Projeto WEB3 Desenvolvido no Bootcamp da Web3Dev
+
+link para o Frontend no Replit: https://projeto-tchauzinho.luanartacho.repl.co/
+
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
